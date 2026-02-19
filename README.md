@@ -1,2 +1,2 @@
-# YuanSui404.-github.io
+# yuansui404.github.io
 Yuans blog
